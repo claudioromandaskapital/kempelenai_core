@@ -1,0 +1,6 @@
+include MANIFEST.in
+include requirements.txt
+recursive-include kempelenai_core *.json *.md *.py *.txt
+recursive-include kempelenai_core/public *
+recursive-include kempelenai_core/templates *
+recursive-include kempelenai_core/config *
