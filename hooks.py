@@ -1,0 +1,8 @@
+app_name = "kempelenai_core"
+app_title = "Kempelen AI Core"
+app_publisher = "DasKapital One"
+app_description = "ERP extension for Kempelen AI Core"
+app_icon = "octicon octicon-pulse"
+app_color = "blue"
+app_email = "claudio.roman@daskapital.one"
+app_license = "MIT"
