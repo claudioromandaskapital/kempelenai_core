@@ -1,0 +1,1 @@
+# Patches go here when schema migrations are required
